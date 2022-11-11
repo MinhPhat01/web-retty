@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web-retty/static/css/main.0c315ffe.css",
+    "main.js": "/web-retty/static/js/main.ef2350b9.js",
+    "static/js/787.7c83aac7.chunk.js": "/web-retty/static/js/787.7c83aac7.chunk.js",
+    "index.html": "/web-retty/index.html",
+    "main.0c315ffe.css.map": "/web-retty/static/css/main.0c315ffe.css.map",
+    "main.ef2350b9.js.map": "/web-retty/static/js/main.ef2350b9.js.map",
+    "787.7c83aac7.chunk.js.map": "/web-retty/static/js/787.7c83aac7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c315ffe.css",
+    "static/js/main.ef2350b9.js"
+  ]
+}
